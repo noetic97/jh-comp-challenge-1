@@ -1,0 +1,55 @@
+article {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  height: 250px;
+  width: 33%;
+  border: 1px solid black;
+}
+
+.box img {
+  height: 50px;
+  width: auto;
+}
+
+.box1, .box5 {
+  background-color: rgb(123, 223, 242);
+}
+
+.box2, .box6 {
+  background-color: rgb(254, 95, 85);
+}
+
+.box3, .box7 {
+  background-color: rgb(150, 154, 151);
+}
+
+.box4 {
+  background-color: rgb(222, 229, 229);
+}
+
+.main-box {
+  height: 250px;
+  width: 66%;
+  background-color: rgb(222, 229, 229);
+}
+
+.id-card-button {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+span {
+  margin-left: 5px;
+}
+
+button {
+  background-color: inherit;
+}
+
+button img {
+  height: 20px;
+  padding: 5px;
+}
