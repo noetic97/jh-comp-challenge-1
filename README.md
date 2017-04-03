@@ -5,4 +5,4 @@
 
 
 
-![Joe's Comp](assets/JH-comp-1.jpg "Rob Bottman Rules!")
+![Joe's Comp](assets/JH-comp-1.png "Rob Bottman Rules!")
